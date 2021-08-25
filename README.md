@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finnish
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rahulumrao&repo=github-readme-stats)](https://github.com/rahulumrao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulumrao&langs_count=8)](https://github.com/rahulumrao/github-readme-stats)
 
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulumrao&show_icons=true&theme=merko)](https://github.com/rahulumrao/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulumrao&hide=javascript,html,Roff,css,Cmake&layout=compact&theme=radical)](https://github.com/rahulumrao/github-readme-stats)
 
