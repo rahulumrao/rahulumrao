@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulumrao&hide=javascript,html,Roff,css,Cmake&layout=compact&theme=radical)](https://github.com/rahulumrao/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/rahulumrao/github-readme-stats)
