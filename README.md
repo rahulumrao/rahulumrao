@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am half finnish
 
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulumrao&show_icons=true&theme=radical&text_color=green)](https://github.com/rahulumrao/github-readme-stats)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulumrao&show_icons=true&theme=merko&text_color=green)](https://github.com/rahulumrao/github-readme-stats)
