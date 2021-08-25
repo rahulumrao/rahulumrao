@@ -1,4 +1,4 @@
-### Hi there, I'm  Rahul - aka [rahulumrao][website] 👋
+### Hi there, I'm  Rahul - aka [rahulumrao](https://github.com/rahulumrao) 👋
 [URL/Link Text Here](http://url.here)
 
 Here are some ideas to get you started:
