@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="rahulumrao | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][ ]
+[<img align="left" alt="rahulumrao | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://github.com/rahulumrao]
 [<img align="left" alt="rahulumrao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][ ]
 [<img align="left" alt="rahulumrao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][ ]
 [<img align="left" alt="rahulumrao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][ ]
