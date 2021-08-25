@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulumrao&show_icons=true&theme=merko)](https://github.com/rahulumrao/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulumrao)](https://github.com/rahulumrao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulumrao&hide=javascript,html)](https://github.com/rahulumrao/github-readme-stats)
 
