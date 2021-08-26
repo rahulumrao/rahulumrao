@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Fortran, Python, bash/shell, Makefile
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half finnish
+- ⚡ Fun fact: ... I am half finished
 
 ### Connect with me:
 
