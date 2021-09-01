@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](webdevplaylist)
-
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](webdevplaylist)
+[<img align="left" alt="Fortran" width="26px" src="http://degenerateconic.com/wp-content/uploads/2015/05/f90-300x212.png" />](webdevplaylist)
+[<img align="left" alt="Bash" width="26px" src="https://www.pc-freak.net/images/Bash-Final-the-Bourne-again-shell-logo.jpg" />](webdevplaylist)
 
 <br />
 <br />
