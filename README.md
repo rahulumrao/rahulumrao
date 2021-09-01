@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](webdevplaylist)
 [<img align="left" alt="Fortran" width="26px" src="http://degenerateconic.com/wp-content/uploads/2015/05/f90-300x212.png" />](webdevplaylist)
 [<img align="left" alt="Bash" width="26px" src="https://www.pc-freak.net/images/Bash-Final-the-Bourne-again-shell-logo.jpg" />](webdevplaylist)
+[<img align="left" alt="Make" width="26px" src="https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmakefile_92756.png" />](webdevplaylist)
 
 <br />
 <br />
