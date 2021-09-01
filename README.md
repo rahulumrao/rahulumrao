@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/)
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org/)
-[<img align="left" alt="Fortran" width="26px" src="http://degenerateconic.com/wp-content/uploads/2015/05/f90-300x212.png" />](https://fortran-lang.org/)
+[<img align="left" alt="Fortran" width="26px" src="https://en.wikipedia.org/wiki/Fortran#/media/File:Fortran_logo.svg" />](https://fortran-lang.org/)
 [<img align="left" alt="Bash" width="26px" src="https://www.pc-freak.net/images/Bash-Final-the-Bourne-again-shell-logo.jpg" />](https://www.gnu.org/software/bash/)
 [<img align="left" alt="Make" width="26px" src="https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmakefile_92756.png" />](https://www.gnu.org/software/make/)
 
