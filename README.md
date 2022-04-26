@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA
 - 🌱 **Programming experience** 
       
-      Fortran, Python, bash/shell, Makefile
+      FORTRAN, Python, bash/shell, Makefile
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finished
