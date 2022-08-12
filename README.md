@@ -1,7 +1,5 @@
 ### Hi there, I'm  Rahul - aka [rahulumrao](https://github.com/rahulumrao) 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA
 - 🌱 **Programming experience** 
       
