@@ -31,7 +31,7 @@
 [<img align="left" alt="Fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" />](https://fortran-lang.org/)
 [<img align="left" alt="Bash" width="26px" src="https://www.pc-freak.net/images/Bash-Final-the-Bourne-again-shell-logo.jpg" />](https://www.gnu.org/software/bash/)
 [<img align="left" alt="Make" width="26px" src="https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmakefile_92756.png" />](https://www.gnu.org/software/make/)
-[<img align="left" alt="Make" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cmake_logo_icon_168385.png" />](https://cmake.org/)
+[<img align="left" alt="Make" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_cmake_opened_icon_130004.png" />](https://cmake.org/)
 
 <br />
 <br />
