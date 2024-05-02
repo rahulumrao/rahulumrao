@@ -1,6 +1,6 @@
 ### Hi there, I'm  Rahul - aka [rahulumrao](https://github.com/rahulumrao) 👋
 
-- 🔭 I’m currently working as Reasearch Scholar in IIT KANPUR, INDIA
+- 🔭 I’m currently working as PostDoc reasearch scholar at NC State University, Raleigh, NC
 - 🌱 **Programming experience** 
       
       FORTRAN, Python, bash/shell, Makefile
