@@ -1,11 +1,10 @@
 ### Hi there, I'm  Rahul - aka [rahulumrao](https://github.com/rahulumrao) 👋
 
-- 🔭 I’m currently working as PostDoc reasearch scholar at NC State University, Raleigh, NC
+- 🔭 I’m currently working as PostDoc reasearch scholar at NC State University, USA.
 - 🌱 **Programming experience** 
       
       FORTRAN, Python, bash/shell, Makefile
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finished
 
 ### Connect with me:
