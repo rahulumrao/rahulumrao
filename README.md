@@ -22,6 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulumrao&hide=javascript,html,Roff,css,Cmake&layout=compact&theme=radical)](https://github.com/rahulumrao/github-readme-stats)
 
+[![](https://visitcount.itsvg.in/api?id=rahulumrao&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+
 <br />
 
 ### Languages and Tools:
