@@ -44,11 +44,14 @@
 </div>
 
 <br>
-<p style="display: flex; align-items: center;">
+<!-- <p style="display: flex; align-items: center;">
   <img src="https://github.com/rahulumrao/rahulumrao/blob/main/skill.png" alt="Tech Stack icon" width="40" height="40" style="margin-right: 10px;">
   <strong style="font-size: 20px;">Tech Stack:</strong>
-</p>
+</p>   -->
 
+<p style="display: flex; align-items: center;">
+  <strong style="font-size: 20px;">Tech Stack:</strong>
+</p>
 
 ###
 
