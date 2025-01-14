@@ -78,17 +78,8 @@
 
 ###
 
-
 ###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rahulumrao/rahulumrao/output/snake.svg" alt="Snake animation" />
-
-###
-
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/rahulumrao/count.svg?"  />
 </div>
