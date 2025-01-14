@@ -50,7 +50,7 @@
 </p>   -->
 
 <p style="display: flex; align-items: center;">
-  <strong style="font-size: 20px;">Tech Stack:</strong>
+  <strong style="font-size: 30px;">Tech Stack:</strong>
 </p>
 
 ###
