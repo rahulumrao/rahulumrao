@@ -43,9 +43,11 @@
 
 </div>
 
-
-
-## Languages and Tools:
+<br>
+<p style="display: flex; align-items: center;">
+  <img src="/Users/rverma7/Documents/MyGitHubProfile/rahulumrao/.git/skill.png" alt="Tech Stack icon" width="40" height="40" style="margin-right: 10px;">
+  <strong style="font-size: 20px;">Tech Stack:</strong>
+</p>
 
 
 ###
