@@ -7,33 +7,90 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... I am half finished
 
-### Connect with me:
+## Connect with me:
+<div align="left">
+  <a href="https://www.linkedin.com/in/rahul-verma-6a8089121">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
+  <a href="https://twitter.com/rahul_818">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /> </a>
+  <a href="">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /> </a>
+  <a href="https://instagram.com/_rahul_umrao">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> </a>
+</div>
 
-[<img align="left" alt="rahulumrao | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/rahulumrao)
-[<img align="left" alt="rahulumrao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rahul_818)
-[<img align="left" alt="rahulumrao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahul-verma-6a8089121)
-[<img align="left" alt="rahulumrao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/_rahul_umrao)
-
-<br />
-
-### Stats :
+## Stats :
+<!-- 
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulumrao&show_icons=true&theme=merko)](https://github.com/rahulumrao/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulumrao&hide=javascript,html,Roff,css,Cmake&layout=compact&theme=radical)](https://github.com/rahulumrao/github-readme-stats)
 
-[![](https://visitcount.itsvg.in/api?id=rahulumrao&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rahulumrao&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in) -->
+
+<div style="display: flex; justify-content: space-around;">
+
+  <div style="flex: 1; text-align: center; padding-right: 10px;">
+    <a href="https://github.com/rahulumrao/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=rahulumrao&show_icons=true&theme=merko" alt="Rahul's GitHub stats" />
+    </a>
+  </div>
+
+  <div style="flex: 1; text-align: center; padding-left: 10px;">
+    <a href="https://github.com/rahulumrao/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulumrao&hide=javascript,html,Roff,css,Cmake&layout=compact&theme=radical" alt="Top Langs" />
+    </a>
+  </div>
+
+</div>
+
+
+
+## Languages and Tools:
+
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/fortran/734F96" height="40" alt="fortran logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
 
 <br />
 
-### Languages and Tools:
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/)
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org/)
-[<img align="left" alt="Fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" />](https://fortran-lang.org/)
-[<img align="left" alt="Bash" width="26px" src="https://www.pc-freak.net/images/Bash-Final-the-Bourne-again-shell-logo.jpg" />](https://www.gnu.org/software/bash/)
-[<img align="left" alt="Make" width="26px" src="https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmakefile_92756.png" />](https://www.gnu.org/software/make/)
-[<img align="left" alt="Make" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_cmake_opened_icon_130004.png" />](https://cmake.org/)
+###
 
-<br />
-<br />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
-----
+###
+
+
+###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rahulumrao/rahulumrao/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rahulumrao/count.svg?"  />
+</div>
+
+###
