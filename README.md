@@ -56,7 +56,7 @@
 ###
 
 <div align="left">
-<a href="https://fortran-lang.org/"
+<a href="https://fortran-lang.org/">
   <img src="https://cdn.simpleicons.org/fortran/734F96" height="40" alt="fortran logo"  />
 </a>
   <img width="12" />
