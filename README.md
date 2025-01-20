@@ -60,7 +60,9 @@
   <img src="https://cdn.simpleicons.org/fortran/734F96" height="40" alt="fortran logo"  />
 </a>
   <img width="12" />
+<a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
