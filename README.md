@@ -1,11 +1,16 @@
-### Hi there, I'm  Rahul - aka [rahulumrao](https://github.com/rahulumrao) 👋
+<h2>Hi there, I'm Rahul - aka <a href="https://github.com/rahulumrao">rahulumrao</a> 👋</h3>
 
-- 🔭 I’m currently working as PostDoc reasearch scholar at NC State University, USA.
-- 🌱 **Programming experience** 
-      
-      FORTRAN, Python, bash/shell, Makefile
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: ... I am half finished
+<ul style="font-size: 1.04em; text-align: justify;">
+  <li>🔭 I’m a Computational Chemist and currently working as a Postdoctoral Research Scholar at <a href="https://www.ncsu.edu/" target="_blank">NC State University</a>, USA.</li><p>
+  <li>My research focuses on <em>ab initio</em> DFT, Molecular Dynamics simulations to explore complex interactions at molecular level, and Machine Learning, particularly in developing Machine Learning Interatomic Potentials. I’m passionate about combining theoretical chemistry, data science, and programming to solve challenging problems. Currently, I am developing tools for data transformation, optimizing hyperparameters for ML models, and building an active learning protocol.</li><p>
+  <li>Feel free to check out my repositories, and let's connect if you share similar interests!</li> <p>
+  <li>🌱 <strong>Programming experience</strong><br>
+    <code>FORTRAN</code>, <code>Python</code>, <code>bash/shell</code>, <code>Makefile</code>
+  </li><p>
+  <!-- <li>💬 Ask me about ... Anything</li><p>
+  <li>⚡ Fun fact: ... I am half-finished!</li> -->
+</ul>
+
 
 ## Connect with me:
 <div align="left">
