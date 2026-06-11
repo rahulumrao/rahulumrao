@@ -112,8 +112,12 @@
 
 ###
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/rahulumrao/count.svg?"  />
+</div> -->
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rahulumrao&label=Profile%20Views&color=12&icon=5&pretty=true" alt="visitor count" />
 </div>
 
 ###
