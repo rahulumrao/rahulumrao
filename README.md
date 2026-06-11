@@ -58,10 +58,6 @@
   <strong style="font-size: 30px;">Tech Stack:</strong>
 </p> -->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulumrao&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</div>
-
 ###
 
 <div align="left">
