@@ -54,9 +54,13 @@
   <strong style="font-size: 20px;">Tech Stack:</strong>
 </p>   -->
 
-<p style="display: flex; align-items: center;">
+<!-- <p style="display: flex; align-items: center;">
   <strong style="font-size: 30px;">Tech Stack:</strong>
-</p>
+</p> -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulumrao&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</div>
 
 ###
 
